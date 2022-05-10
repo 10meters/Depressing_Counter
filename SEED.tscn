@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://SEED.gd" type="Script" id=1]
+
+[node name="SEED" type="Label"]
+margin_left = 570.0
+margin_top = 60.0
+margin_right = 605.0
+margin_bottom = 74.0
+rect_scale = Vector2( 3.67957, 3.93998 )
+text = "SEED:"
+script = ExtResource( 1 )
